@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Momesso</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A web developer and arduino dev from Brazil</h3>
 
-- 🌱 I’m currently learning **Java Script and React**
+- 🌱 I’m currently learning **React**
 
 - 👀 I’m interested in **Front end and back end**
 
